@@ -21,3 +21,4 @@ def decompress(s):
         else:
             result += char
         i += 1
+    return result
