@@ -1,0 +1,4 @@
+# Space delimited file
+
+cat file | tr ' ' '\n' | nl
+
